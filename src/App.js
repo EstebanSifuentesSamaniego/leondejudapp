@@ -1,23 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import SongsList from './components/SongsList'
+import Header from './components/Header'
 
 function App() {
+
+  const songs = [
+    {id: 1, name: "Borró", artista: "Elevation Worship" },
+    {id: 2, name: "Padre Nuestro", artista: "Bethel Church" },
+    {id: 3, name: "Ver La Victoria", artista: "Elevation Worship" },
+    {id: 4, name: "Dios Incomparable", artista: "Marco Barrientos" },
+  ]
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    /*<div>
+      <Header />
+      <SongList songs={songs}/>
+    </div>*/
+    <div>
+      <Header />
+      <SongsList songs={songs}/>
     </div>
   );
 }

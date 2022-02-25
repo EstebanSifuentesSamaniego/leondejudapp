@@ -12,14 +12,9 @@ function App() {
   ]
 
   return (
-    /*
     <div>
       <Header />
       <SongsList songs={songs}/>
-    </div>
-    */
-    <div>
-      <h1>hello</h1>
     </div>
   );
 }

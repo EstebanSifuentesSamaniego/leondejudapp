@@ -17,7 +17,7 @@ ReactDOM.render(
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/lyric/:id" element={<Lyric /> } />
-        <Route path="/eventos" element={<Evento /> } />
+        <Route path="/necesidades" element={<Evento /> } />
       </Routes>
     </BrowserRouter>,
     document.getElementById('root')

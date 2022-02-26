@@ -69,10 +69,10 @@ export default function Header() {
                                     <Divider />
 
                                     <ListItem button key={"Eventos"}>
-                                        <ListItemButton onClick={() => navigate("/eventos")}>
+                                        <ListItemButton onClick={() => navigate("/necesidades")}>
                                             <EventIcon />
                                         </ListItemButton>
-                                        <ListItemText primary={"Eventos"} />
+                                        <ListItemText primary={"Necesidades"} />
                                     </ListItem>
 
                                     <Divider />

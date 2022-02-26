@@ -1,6 +1,5 @@
 import React from 'react'
 import '../styles/Song.css'
-//import PropTypes from "prop-types"
 
 export default function Song(props){
 	const id = props.id;

@@ -50,8 +50,126 @@ export default [
     oh, oh, oh, oh\n \
     oh, oh, oh, oh\n \
     oh, oh, oh, oh\n \
-    oh, oh, oh, oh\n",
-    "Padre nuestro",
-    "Ver la Victoria",
-    "Dios Incomparable",
+    oh, oh, oh, oh",
+
+    "Padre nuestro en los cielos\n\
+    Santo es tu nombre\n\
+    Que venga tu reino\n\
+    Tu voluntad también\n\
+    .\n\
+    Aquí como en el cielo\n\
+    Que el cielo venga\n\
+    Aquí como en el cielo\n\
+    Que venga aquí\n\
+    .\n\
+    El cielo aquí, el cielo aquí\n\
+    El cielo aquí, el cielo aquí\n\
+    .\n\
+    Tuyo es el reino, tuyo el poder\n\
+    Tuya es la gloria, por siempre, amén\n\
+    Tuyo es el reino, tuyo el poder\n\
+    Tuya es la gloria, por siempre, amén\n\
+    .\n\
+    Tuyo es el reino, tuyo el poder\n\
+    Tuya es la gloria, por siempre, amén\n\
+    Tuyo es el reino, tuyo el poder\n\
+    Tuya es la gloria, por siempre, amén\n\
+    .\n\
+    Tuyo es el reino, tuyo el poder\n\
+    Tuya es la gloria, por siempre, amén\n\
+    Tuyo es el reino, tuyo el poder\n\
+    Tuya es la gloria, por siempre, amén\n\
+    .\n\
+    El cielo aquí, el cielo aquí",
+    
+    "No prosperará el arma forjada\n\
+    La oscuridad no prevalecerá\n\
+    Porque el Dios que sirvo siempre triunfará\n\
+    Mi Dios no fallará\n\
+    Mi Dios no fallará\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor\n\
+    .\n\
+    Hay poder en el nombre de Cristo\n\
+    Cada guerra que Él pelea ganará\n\
+    Nunca huiré de los gigantes\n\
+    Sé como terminará\n\
+    Sé como terminará\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor\n\
+    .\n\
+    Todo lo que viene del enemigo\n\
+    Lo transformas para bien\n\
+    Lo transformas para bien\n\
+    .\n\
+    Todo lo que viene del enemigo\n\
+    Lo transformas para bien\n\
+    Lo transformas para bien\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor\n\
+    .\n\
+    Voy a ver la victoria\n\
+    Voy a ver la victoria\n\
+    La batalla es tuya, Señor",
+    
+    "Dios de mi corazón\n\
+    En tu encontré mi salvación\n\
+    Tu gloria y majestad\n\
+    Quiero siempre contemplar\n\
+    Tú eres mi adoración\n\
+    Y mi eterna canción\n\
+    Todo mi interior\n\
+    Es cautivado por tu amor\n\
+    .\n\
+    Eres Dios eterno, sólo tú eres bueno\n\
+    Dios incomparable eres Tú\n\
+    Nunca me separaré de tu gran amor\n\
+    Eres mi Señor mi Salvador\n\
+    .\n\
+    Dios de mi corazón\n\
+    En tu encontré mi salvación\n\
+    Tu gloria y majestad\n\
+    Quiero siempre contemplar\n\
+    .\n\
+    Tú eres mi adoración\n\
+    Y mi eterna canción\n\
+    Todo mi interior\n\
+    Es cautivado por tu amor\n\
+    .\n\
+    Eres Dios eterno, sólo tú eres bueno\n\
+    Dios incomparable eres Tú\n\
+    Nunca me separaré de tu gran amor\n\
+    Eres mi Señor mi Salvador\n\
+    .\n\
+    Aleluya\n\
+    Aleluya\n\
+    Aleluya\n\
+    Aleluya\n\
+    .\n\
+    Eres Dios eterno, sólo tú eres bueno\n\
+    Dios incomparable eres Tú\n\
+    Nunca me separaré de tu gran amor\n\
+    Eres mi Señor mi Salvador",
 ]

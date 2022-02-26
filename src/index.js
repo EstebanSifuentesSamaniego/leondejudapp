@@ -9,6 +9,7 @@ import {
   Route,
 } from 'react-router-dom'
 import Lyric from './components/Lyric'
+import Evento from './components/Evento'
 
 
 ReactDOM.render(
@@ -16,6 +17,7 @@ ReactDOM.render(
       <Routes>
         <Route path="/" element={<App />} />
         <Route path="/lyric/:id" element={<Lyric /> } />
+        <Route path="/eventos" element={<Evento /> } />
       </Routes>
     </BrowserRouter>,
     document.getElementById('root')

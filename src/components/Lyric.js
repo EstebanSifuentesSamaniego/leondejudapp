@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './Header'
+import SecondHeader from './SecondHeader'
 import { useParams } from 'react-router-dom'
 import letras from '../letras.js'
 
@@ -8,14 +8,8 @@ export default function Lyric(){
     let { id } = useParams()
 
     return(
-        /*<div>
-            <Header />
-            <div style={{ margin: '10px', padding: '10px' }}>
-                { letras[id] }
-            </div>
-        </div>*/
         <div>
-            <Header />
+            <SecondHeader />
             <div style={{ margin: '10px', padding: '10px' }}>
                 { 
                     letras[id].split ('\n').map ((item, i) => (

@@ -1,14 +1,16 @@
 import * as React from 'react'
-import {    List , Drawer, ListItem, ListItemIcon, 
+import {    List , Drawer, ListItem,
             ListItemText, Button, IconButton, Typography, Toolbar,
-            Box, AppBar, Divider
+            Box, AppBar, Divider, ListItemButton
         } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
-import MailIcon from '@mui/icons-material/Mail';
 import LibraryMusicIcon from '@mui/icons-material/LibraryMusic';
 import EventIcon from '@mui/icons-material/Event';
+import { useNavigate } from 'react-router-dom'
 
 export default function Header() {
+
+    let navigate = useNavigate()
 
     const [state, setState] = React.useState({
         isDrawerOpen: false,
@@ -58,18 +60,18 @@ export default function Header() {
                                 <List>
                                     
                                     <ListItem button key={"Cantos"}>
-                                        <ListItemIcon>
+                                        <ListItemButton onClick={() => navigate("/")}>
                                             <LibraryMusicIcon />
-                                        </ListItemIcon>
+                                        </ListItemButton>
                                         <ListItemText primary={"Cantos"} />
                                     </ListItem>
 
                                     <Divider />
 
                                     <ListItem button key={"Eventos"}>
-                                        <ListItemIcon>
+                                        <ListItemButton onClick={() => navigate("/eventos")}>
                                             <EventIcon />
-                                        </ListItemIcon>
+                                        </ListItemButton>
                                         <ListItemText primary={"Eventos"} />
                                     </ListItem>
 

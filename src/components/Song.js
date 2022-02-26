@@ -6,7 +6,7 @@ export default function Song(props){
 	const id = props.id;
 
 	function handleSongClick(){
-		console.log(`hola song ${id}`)
+		navigate("/lyric")
 	}
 
 	return (

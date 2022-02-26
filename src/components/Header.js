@@ -20,28 +20,7 @@ export default function Header() {
         }
 
         setState({ ...state, isDrawerOpen: open });
-    };
-
-    const list = () => (
-        <Box
-          sx={{ width: 'auto' }}
-          role="presentation"
-          onClick={toggleDrawer(false)}
-          onKeyDown={toggleDrawer(false)}
-        >
-          <List>
-            {['Cantos', 'Eventos'].map((text, index) => (
-              <ListItem button key={text}>
-                <ListItemIcon>
-                  <MailIcon />
-                </ListItemIcon>
-                <ListItemText primary={text} />
-              </ListItem>
-            ))}
-          </List>
-        </Box>
-    );
-    
+    };    
 
     const AppBarStyle = {
         backgroundColor: "#ae2828"

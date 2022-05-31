@@ -12,7 +12,7 @@ function App() {
     {id: 3, name: "Dios Incomparable", artista: "Marco Barrientos" },
     {id: 4, name: "Medley 2", artista: "Majo Solís"},
     {id: 5, name: "Solo de Jesús la Sangre", artista: "En Espíritu y en Verdad"},
-    {id: 6, name: "Cuan Grande es Dios / Cuan Grande es Él", artista: "En Espíritu y en Verdad"},
+    {id: 6, name: "Cuan Grande es Dios / Cuan Grande es Él", artista: "En Espíritu y en Verdad" },
   ]
 
   return (
